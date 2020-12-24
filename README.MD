@@ -1,16 +1,6 @@
-# BinanceTriangularArbitrage v2
+# Process-APIs-using-Public-Proxy-Servers
 
-## v2.0 | 20x Faster | 2x Easier | Socket API | Live Updates
-
-This is the new version of Binance Triangular Arbitrage Finder.
-
-### Key Upgrades
-
-- Built on Websockets instead of REST api.
-- 20x faster
-- No need to install CORS chrome extensions to use.
-- Runs Live
-- Simplified Interface
+This project contains code explaining how to process APIs using public proxy servers. Check out the [youtube video](https://youtu.be/7SCT3YJIISI) for more information.
 
 ### How to run ?
 
@@ -21,13 +11,8 @@ Follow the instructions below.
 - Go to the current folder on command promt and run below command
 
 ```bash
-node index.js
+npm install
 ```
-
-- Wait until the program loads
-- Then go to "http://127.0.0.1:3000/" url to access
-
-Still confused ? click [here](https://youtu.be/Rlx8LjHo9Jc) watch the youtube video.
 
 ### Disclaimer:
 
