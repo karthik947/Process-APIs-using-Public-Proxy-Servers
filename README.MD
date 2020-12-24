@@ -11,7 +11,7 @@ Follow the instructions below.
 - Go to the current folder on command promt and run below command
 
 ```bash
-npm install
+npm install got tunnel
 ```
 
 ### Disclaimer:
